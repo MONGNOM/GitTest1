@@ -3,6 +3,12 @@
 
 #include <iostream>
 
+class Monster
+{
+
+
+};
+
 using namespace std;
 
 int main()
