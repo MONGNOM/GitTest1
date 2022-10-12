@@ -5,6 +5,12 @@
 
 using namespace std;
 
+
+class Item
+{
+    int count;
+
+};
 int main()
 {
     cout << "Hello World!" << endl;
