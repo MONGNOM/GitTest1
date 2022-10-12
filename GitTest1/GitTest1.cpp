@@ -3,6 +3,12 @@
 
 #include <iostream>
 
+class Monster
+{
+
+
+};
+
 int main()
 {
     std::cout << "Hello World!\n";
